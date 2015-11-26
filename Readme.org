@@ -1,12 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:18.997215
-#+TITLE: 一乘法界圖合詩一印
-#+PROPERTY: CBETA_ID F28n1081
-#+PROPERTY: ID KR6e0111
-#+PROPERTY: SOURCE Fangshan shijing Vol. 28, No. 1081
-#+PROPERTY: VOL 28
-#+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 一乘法界圖合詩一印 / F
+#+DATE: 2015-11-26 14:18:43.599460
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         F|【房山石徑】  |
 
-<pb:KR6e0111_F_000-0627a>¶
-
+* 目次
+* 卷
+** [[file:KR6e0111_001.txt][一乘法界圖合詩一印 1]]
