@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:19.015185
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:28
 #+TITLE: 一乘法界圖合詩一印
 #+PROPERTY: CBETA_ID F28n1081
 #+PROPERTY: ID KR6e0111
 #+PROPERTY: SOURCE Fangshan shijing Vol. 28, No. 1081
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0111_F_001-0627a> 
 #+PROPERTY: JUAN 1
-
- 一乘法界圖合詩一印(五十四角二百一十字)¶
+一乘法界圖合詩一印(五十四角二百一十字)¶
 
 夫大聖善巧無方應機隨病非一迷之者守迹¶
 不知失體勤而歸宗未日故依理據教略製盤¶
